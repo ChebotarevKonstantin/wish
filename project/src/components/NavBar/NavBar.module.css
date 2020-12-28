@@ -1,0 +1,43 @@
+.bar{
+  background-color: #B6B89F;
+
+  /* background-color: #b6b89fa2; */
+  /* background-color: rgba(214, 173, 95, 0.4); */
+  width: 100%;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif; ;
+}
+
+.div{
+  display: flex;
+  /* align-items: stretch; */
+  /* justify-content: space-between; */
+  color: red;
+  justify-content: end;
+  align-items: center;
+}
+
+
+
+Nav{
+  font-weight: bolder;
+}
+
+.menu {
+color: white;
+}
+
+.menu:hover, .logo:hover{
+  color: darkolivegreen;
+  text-decoration: none;
+
+}
+
+.logo {
+  color: white;
+  font-size: 30px;
+}
+
+.garland {
+  background-color:white;
+}

@@ -1,0 +1,18 @@
+.garland {
+  position: sticky;
+  top: 3.5em;
+  min-height: 2em;
+  z-index: 1000;
+}
+
+.btn {
+  position: fixed;
+  /* top: 50em; */
+  bottom: -60px;
+  left: 100em;
+  border-color: white;
+  background-color: white;
+ 
+
+}
+ 

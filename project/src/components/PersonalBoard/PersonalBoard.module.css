@@ -1,0 +1,17 @@
+.ava{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.informer{
+  display: flex;
+  justify-content: flex-end;
+}
+.row{
+  padding-top: 70px;
+}
+
+.li {
+  text-decoration: none;
+}

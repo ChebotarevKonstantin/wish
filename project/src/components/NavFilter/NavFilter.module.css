@@ -1,0 +1,5 @@
+.sticky {
+  position: sticky;
+  top: 6em;
+  min-height: 2em;
+}
